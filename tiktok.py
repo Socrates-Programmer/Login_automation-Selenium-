@@ -53,8 +53,8 @@ def descargar_fotos_facebook(email, password, url_fotos, carpeta_destino="fotos_
         print("Proceso completado y navegador cerrado.")
 
 # Datos de entrada
-email = "marcosavila3006@gmail.com"  
-password = "Marcos1313."
+email = "Ejemplo@gmailcom"  
+password = "Ejemplo de contraseña"
 url_fotos = "https://www.facebook.com/profile.php?id=100013256821295&sk=photos" 
 
 descargar_fotos_facebook(email, password, url_fotos)
