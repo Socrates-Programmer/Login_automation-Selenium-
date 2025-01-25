@@ -1,1 +1,2 @@
 - Change the email example to your real email and password
+- Add your URL ( Advice = In this example it is the URL where the images are. )
