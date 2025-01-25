@@ -55,6 +55,6 @@ def descargar_fotos_facebook(email, password, url_fotos, carpeta_destino="fotos_
 # Datos de entrada
 email = "Ejemplo@gmailcom"  
 password = "Ejemplo de contraseña"
-url_fotos = "https://www.facebook.com/profile.php?id=100013256821295&sk=photos" 
+url_fotos = "URL HERE" 
 
 descargar_fotos_facebook(email, password, url_fotos)
